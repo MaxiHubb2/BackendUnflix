@@ -8,7 +8,7 @@ import org.springframework.http.ResponseEntity;
 
 @RestController
 @RequestMapping("/api/peliculas")
-@CrossOrigin(origins = "http://localhost:8081") // Permitir CORS para frontend
+@CrossOrigin(origins = {"https://unflixapp.netlify.app", "http://localhost:8081"})
 public class ControladorPelicula {
 
     @Autowired
@@ -59,4 +59,3 @@ public class ControladorPelicula {
         return servicioPelicula.buscarPeliculasPorTitulo(titulo);
     }
 }
-
