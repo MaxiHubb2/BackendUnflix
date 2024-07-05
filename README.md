@@ -87,10 +87,10 @@ Puedes acceder a la demo en vivo de la aplicación a través del siguiente enlac
 ## Capturas de Pantalla
 
 ### Página Principal
-![Página Principal]([https://via.placeholder.com/800x400](https://imgur.com/vgrK5mR))
+![Página Principal]((https://imgur.com/vgrK5mR))
 
 ### Administrador de Película
-![Detalles de Película]([https://via.placeholder.com/800x400]((https://imgur.com/UIMvjsH)))
+![Detalles de Película](((https://imgur.com/UIMvjsH)))
 
 ## Contribuciones
 
