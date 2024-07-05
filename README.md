@@ -87,10 +87,10 @@ Puedes acceder a la demo en vivo de la aplicación a través del siguiente enlac
 ## Capturas de Pantalla
 
 ### Página Principal
-![Página Principal](https://via.placeholder.com/800x400)
+![Página Principal]([https://via.placeholder.com/800x400](https://imgur.com/vgrK5mR))
 
-### Detalles de Película
-![Detalles de Película](https://via.placeholder.com/800x400)
+### Administrador de Película
+![Detalles de Película]([https://via.placeholder.com/800x400]((https://imgur.com/UIMvjsH)))
 
 ## Contribuciones
 
@@ -104,7 +104,6 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 Si tienes preguntas o sugerencias, no dudes en contactar a:
 
-- **Maximiliano Rabenko**
 - **Maxii.rabenko@gmail.com** 
 ---
 
