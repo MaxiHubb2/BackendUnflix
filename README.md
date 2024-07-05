@@ -104,9 +104,8 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 Si tienes preguntas o sugerencias, no dudes en contactar a:
 
-- **Nombre:** Tu Nombre
-- **Email:** tu.email@example.com
-
+- **Maximiliano Rabenko**
+- **Maxii.rabenko@gmail.com** 
 ---
 
 ¡Gracias por visitar UnFlixApp!
